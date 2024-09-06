@@ -20,7 +20,7 @@ Este é um projeto de um cronômetro simples feito em C# utilizando o console. E
 - Como chamar essas funções
 - converter string para minúscula
 - Substring
-- Função .Length para buscar um valor específico
+- Função Length para buscar um valor específico
 - Sair da aplicação com System.Environment.Exit
 - Função Sleep
 - Função While
